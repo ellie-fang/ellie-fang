@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ellie-fang
 - 👀 I’m interested in everything about data
-- 🌱 I’m currently learning data analytics
-- 💞️ I’m looking to collaborate on data projects
+- 🌱 I’m currently working as a data analyst
 
 <!---
 ellie-fang/ellie-fang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
